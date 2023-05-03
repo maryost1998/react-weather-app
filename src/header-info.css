@@ -1,0 +1,38 @@
+.title-img {
+    margin: 10px;
+    color: #fbe70e;
+    width: 75px;
+}
+.main-header {
+    margin-bottom: 50px;
+}
+#city {
+    margin-top: 20px;
+    text-shadow: 5px 5px 10px rgba(102, 111, 120, 0.4);
+    font-family: "Pangolin", cursive;
+    font-size: 20px;
+}
+
+#current-day {
+    font-size: 20px;
+}
+
+#time,
+#weather-condition-header,
+#degree {
+    font-size: 20px;
+    margin-top: 15px;
+    text-shadow: 5px 5px 10px rgba(102, 111, 120, 0.4);
+}
+
+#time {
+    margin: 0;
+}
+
+#degree {
+    display: inline;
+}
+
+#cele {
+    font-size: 20px;
+}

@@ -1,0 +1,14 @@
+nav {
+    font-size: 30px;
+}
+#current-location {
+    margin-left: 10px;
+    font-size: 12px;
+}
+#search-button {
+    font-size: 15px;
+}
+#title-nav {
+    font-size: 15px;
+    color: #fff;
+}

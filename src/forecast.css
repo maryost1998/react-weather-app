@@ -1,0 +1,27 @@
+div.col h3,
+h4 {
+    font-size: 19px;
+    margin: 2px 0;
+}
+.row {
+    margin-top: 40px;
+}
+
+.col {
+    line-height: 22mm;
+    margin: 6px 6px 20px;
+    text-align: center;
+    font-size: 11px;
+    background: #194a82;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(11, 37, 44, 0.2);
+    height: 150px;
+}
+
+.col:hover {
+    background-color: #88a3cc;
+    color: #194a82;
+}
+.item-img {
+    width: 50px;
+}
